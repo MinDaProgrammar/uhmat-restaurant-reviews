@@ -1,0 +1,10 @@
+build/
+*.class
+*.war
+.settings/
+.classpath
+.project
+.idea/
+.vscode/
+.DS_Store
+src/main/webapp/upload/*
